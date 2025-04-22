@@ -1,0 +1,1 @@
+music = {"aadat": "https://youtu.be/8YjQU3PUmcY?si=jSMm0oxc37ptgiuF"}
